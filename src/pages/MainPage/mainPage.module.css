@@ -1,0 +1,11 @@
+.mainClass{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 40px;
+   
+}
+.loading{
+    width: 100%;
+    text-align: center;
+}
